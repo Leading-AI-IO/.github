@@ -14,6 +14,7 @@
 | [The Silence of Intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence) | Anthropic CEO ダリオ・アモディの思想を体系化したOSS書籍。 |
 | [The Palantir Impact](https://github.com/Leading-AI-IO/palantir-ontology-strategy) | パランティアの中核概念「オントロジー」の戦略と実装を解き明かすOSS書籍。 |
 | [What They Won't Teach You](https://github.com/Leading-AI-IO/what-they-wont-teach-you) | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍。 |
+| [The Edge of Intelligence](https://github.com/Leading-AI-IO/edge-ai-intelligence) | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり。 |
 
 ---
 
