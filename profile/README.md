@@ -16,6 +16,7 @@
 | [What They Won't Teach You](https://github.com/Leading-AI-IO/what-they-wont-teach-you) | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍。 |
 | [The Edge of Intelligence](https://github.com/Leading-AI-IO/edge-ai-intelligence) | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり。 |
 | [The Redesign of Design Strategy](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) | デザインとビジネスは同一の思考プロセスである。「本質を見抜き構造化する眼」こそがAI時代に残る唯一の武器である。 |
+| [The Orchestrator in the AI era](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) | ビジネス、デザイン、テクノロジーの3つの専門性を統合し、人とAIの両方をオーケストレーションできる人材こそが、AI時代に求められる最高レベルの職能だ。 |
 
 ---
 
