@@ -12,7 +12,7 @@
 | [The AI Strategist](https://github.com/Leading-AI-IO/the-ai-strategist) | AIストラテジストの定義。思想・技術・実行を越境する新しい役割の構造分析。 |
 | [Depth & Velocity](https://github.com/Leading-AI-IO/depth-and-velocity) | 生成AI時代の新規事業開発方法論。深さと速度を両立する実践フレームワーク。 |
 | [The Silence of Intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence) | Anthropic CEO ダリオ・アモディの思想を体系化したOSS書籍。 |
-| [Anatomy of Anthropic](https://github.com/Leading-AI-IO/anatomy-of-anthropic) | Anthropic解体新書 — 世界で最も慎重なAI企業の思想・製品・経済・統治を構造化する。【NEW!!】 |
+| [Anatomy of Anthropic](https://github.com/Leading-AI-IO/anatomy-of-anthropic) | Anthropic解体新書 — 世界で最も慎重なAI企業の思想・製品・経済・統治を構造化する。 |
 | [The Palantir Impact](https://github.com/Leading-AI-IO/palantir-ontology-strategy) | パランティアの中核概念「オントロジー」の戦略と実装を解き明かすOSS書籍。 |
 | [What They Won't Teach You](https://github.com/Leading-AI-IO/what-they-wont-teach-you) | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍。 |
 | [The Edge of Intelligence](https://github.com/Leading-AI-IO/edge-ai-intelligence) | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり。 |
