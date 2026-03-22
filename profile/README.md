@@ -1,5 +1,4 @@
 # Leading AI
-
 **Constructing the Context.**
 文脈を構築し、AIを実装する。
 
@@ -23,4 +22,7 @@
 ---
 
 All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or MIT License.
+
+📩 事業・講演・ワークショップに関するお問い合わせ → [www.leading-ai.io](https://www.leading-ai.io)
+
 © 2026 Satoshi Yamauchi / Leading AI
