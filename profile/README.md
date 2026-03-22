@@ -19,10 +19,11 @@
 | [The Orchestrator in the AI era](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) | AI時代に最も希少な人材。それはビジネス、デザイン、テクノロジーの3つの専門性を統合し、人とAIの両方をオーケストレーションできる人間だ。|
 | [Advertising, Redesigned](https://github.com/Leading-AI-IO/advertising-redesigned) | AIが広告を「割り込み」から「優しい提案」に変える。検索の終焉、広告が初めて「歓迎される存在」になる未来。 |
 
----
-
 All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or MIT License.
 
-📩 事業・講演・ワークショップに関するお問い合わせ → [www.leading-ai.io](https://www.leading-ai.io)
+---
+
+## 📩 事業・講演・ワークショップに関するお問い合わせ
+[www.leading-ai.io](https://www.leading-ai.io)
 
 © 2026 Satoshi Yamauchi / Leading AI
