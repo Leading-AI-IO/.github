@@ -30,6 +30,6 @@ All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/lice
 ---
 
 ## 📩 事業・講演・ワークショップに関するお問い合わせ
-[www.leading-ai.io](https://www.leading-ai.io)
+### [www.leading-ai.io](https://www.leading-ai.io)
 
 ©2026 / Leading AI
