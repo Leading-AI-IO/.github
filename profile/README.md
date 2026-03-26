@@ -26,4 +26,10 @@ All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/lice
 ## 📩 事業・講演・ワークショップに関するお問い合わせ
 [www.leading-ai.io](https://www.leading-ai.io)
 
-© 2026 Satoshi Yamauchi / Leading AI
+山内怜史 | AIストラテジスト&ビジネスデザイナー
+Satoshi Yamauchi | AIStrategist & BusinessDesigner
+
+ビジネス×デザイン×テクノロジーの３つの領域を「越境」したビジネスデザイナー兼AIストラテジスト。
+A cross-disciplinary Business Designer and AI Strategist operating at the intersection of Business, Design, and Technology.
+
+©2026 / Leading AI
