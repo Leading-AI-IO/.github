@@ -1,6 +1,12 @@
 # Leading AI
-**Constructing the Context.**
-文脈を構築し、AIを実装する。
+## Constructing the Context.
+**文脈を構築し、AIを実装する。**
+
+山内怜史 | AIストラテジスト&ビジネスデザイナー <br>
+Satoshi Yamauchi | AIStrategist & BusinessDesigner
+
+ビジネス×デザイン×テクノロジーの３つの領域を「越境」したAIストラテジスト兼ビジネスデザイナー。 <br>
+A cross-disciplinary AI Strategist and Business Designer operating at the intersection of Business, Design, and Technology.
 
 ---
 
@@ -25,11 +31,5 @@ All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/lice
 
 ## 📩 事業・講演・ワークショップに関するお問い合わせ
 [www.leading-ai.io](https://www.leading-ai.io)
-
-山内怜史 | AIストラテジスト&ビジネスデザイナー <br>
-Satoshi Yamauchi | AIStrategist & BusinessDesigner
-
-ビジネス×デザイン×テクノロジーの３つの領域を「越境」したAIストラテジスト兼ビジネスデザイナー。 <br>
-A cross-disciplinary AI Strategist and Business Designer operating at the intersection of Business, Design, and Technology.
 
 ©2026 / Leading AI
