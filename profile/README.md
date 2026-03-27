@@ -24,6 +24,7 @@ A cross-disciplinary AI Strategist and Business Designer operating at the inters
 | [The Redesign of Design Strategy](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) | デザインとビジネスは同一の思考プロセスである。「本質を見抜き構造化する眼」こそがAI時代に残る唯一の武器である。 |
 | [The Orchestrator in the AI era](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) | AI時代に最も希少な人材。それはビジネス、デザイン、テクノロジーの3つの専門性を統合し、人とAIの両方をオーケストレーションできる人間だ。|
 | [Advertising, Redesigned](https://github.com/Leading-AI-IO/advertising-redesigned) | AIが広告を「割り込み」から「優しい提案」に変える。検索の終焉、広告が初めて「歓迎される存在」になる未来。 |
+| [The AI Organization](https://github.com/Leading-AI-IO/the-ai-organization) | AI導入が失敗する本質は技術ではなく組織にある —— リーダーシップ・文化・評価制度の構造分析から描くAI時代の組織論。 |
 
 All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
