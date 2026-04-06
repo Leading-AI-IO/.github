@@ -1,4 +1,4 @@
-# Leading AI
+# [Leading AI](https://www.leading-ai.io)
 ## Constructing the Context.
 **文脈を構築し、AIを実装する。**
 
