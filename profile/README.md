@@ -1,4 +1,4 @@
-# [Leading AI](https://www.leading-ai.io) Open-Source Books Repository
+# [Leading AI](https://www.leading-ai.io) Open-Source Books Projects
 ## Constructing the Context.
 **文脈を構築し、AIを実装する。**
 
