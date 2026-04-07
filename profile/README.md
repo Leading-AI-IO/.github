@@ -1,7 +1,10 @@
-# [Leading AI](https://www.leading-ai.io)
+# [Leading AI](https://www.leading-ai.io) Open-Source Books Repository
 ## Constructing the Context.
 **文脈を構築し、AIを実装する。**
 
+<img width="600" height="315" alt="prtimes_cover" src="https://github.com/user-attachments/assets/f272ee00-d39d-4845-b0ca-da9532931c34" />
+
+## Profile
 山内怜史 | AIストラテジスト&ビジネスデザイナー <br>
 Satoshi Yamauchi | AIStrategist & BusinessDesigner
 
@@ -25,12 +28,15 @@ A cross-disciplinary AI Strategist and Business Designer operating at the inters
 | [The Orchestrator in the AI era](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) | AI時代に最も希少な人材。それはビジネス、デザイン、テクノロジーの3つの専門性を統合し、人とAIの両方をオーケストレーションできる人間だ。|
 | [Advertising, Redesigned](https://github.com/Leading-AI-IO/advertising-redesigned) | AIが広告を「割り込み」から「優しい提案」に変える。検索の終焉、広告が初めて「歓迎される存在」になる未来。 |
 | [The AI Organization](https://github.com/Leading-AI-IO/the-ai-organization) | AI導入が失敗する本質は技術ではなく組織にある —— リーダーシップ・文化・評価制度の構造分析から描くAI時代の組織論。 |
+| [The Structural Shift from SaaS to Service-as-a-Software](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model) | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。。 |
 
 All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
+<img width="915" height="225" alt="logo_black_1920x450" src="https://github.com/user-attachments/assets/8572cc2c-80bf-4bfb-a4e3-93661b24a980" />
+
 ## 📩 事業・講演・ワークショップに関するお問い合わせ
 ### [www.leading-ai.io](https://www.leading-ai.io)
 
-©2026 / Leading AI
+©2026 / [Leading AI](https://www.leading-ai.io)
