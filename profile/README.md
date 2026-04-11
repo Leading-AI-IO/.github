@@ -29,6 +29,7 @@ A cross-disciplinary AI Strategist and Business Designer operating at the inters
 | [Advertising, Redesigned](https://github.com/Leading-AI-IO/advertising-redesigned) | AIが広告を「割り込み」から「優しい提案」に変える。検索の終焉、広告が初めて「歓迎される存在」になる未来。 |
 | [The AI Organization](https://github.com/Leading-AI-IO/the-ai-organization) | AI導入が失敗する本質は技術ではなく組織にある —— リーダーシップ・文化・評価制度の構造分析から描くAI時代の組織論。 |
 | [The Structural Shift from SaaS to Service-as-a-Software](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model) | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。 |
+| [The 10:80:10 Principle](https://github.com/Leading-AI-IO/the-10-80-10-principle) | 人とAIの共創黄金比「10:80:10」の法則——AI時代の思考のOS。 |
 
 All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
