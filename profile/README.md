@@ -33,6 +33,7 @@ A cross-disciplinary AI Strategist and Business Designer operating at the inters
 | [A Trillion Dollars and a Firebomb](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb) | 1兆ドルと火炎瓶。AI時代の同時加速する現実。 |
 | [the-attention-economy-is-over](https://github.com/Leading-AI-IO/the-attention-economy-is-over) | アテンション・エコノミーの終わり。次世代SNSの在り方とは？ |
 | [the-growth-engine-of-anthropic](https://github.com/Leading-AI-IO/the-growth-engine-of-anthropic) | Anthropicの1兆ドル到達の構造解剖。 |
+| [Agentic-commerce-economy](https://github.com/Leading-AI-IO/agentic-commerce-economy) | AIエージェントが購買を代行する時代、広告モデルの構造的変化。 |
 
 All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
