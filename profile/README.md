@@ -34,7 +34,7 @@ A cross-disciplinary AI Strategist and Business Designer operating at the inters
 | [the-attention-economy-is-over](https://github.com/Leading-AI-IO/the-attention-economy-is-over) | アテンション・エコノミーの終わり。次世代SNSの在り方とは？ |
 | [the-growth-engine-of-anthropic](https://github.com/Leading-AI-IO/the-growth-engine-of-anthropic) | Anthropicの1兆ドル到達の構造解剖。 |
 | [Agentic-commerce-economy](https://github.com/Leading-AI-IO/agentic-commerce-economy) | AIエージェントが購買を代行する時代、広告モデルの構造的変化。 |
-| [will-ai-break-the-planet](https://github.com/Leading-AI-IO/will-ai-break-the-planet) | 数十兆円のインフラ投資と、地球温暖化の「不可逆ライン」。 |
+| [will-ai-break-the-planet](https://github.com/Leading-AI-IO/will-ai-break-the-planet) | 数十兆円のAIインフラ投資と、地球温暖化の「不可逆ライン」。 |
 
 All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
