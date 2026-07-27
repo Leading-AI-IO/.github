@@ -11,6 +11,27 @@ Satoshi Yamauchi | AIStrategist & BusinessDesigner
 ビジネス×デザイン×テクノロジーの３つの領域を「越境」したAIストラテジスト兼ビジネスデザイナー。 <br>
 A cross-disciplinary AI Strategist and Business Designer operating at the intersection of Business, Design, and Technology.
 
+ビジネス×デザイン×テクノロジーの3つの領域を「越境」したAIストラテジスト兼ビジネスデザイナー。
+株式会社Sun Asterisk（Sun*）AIストラテジスト＆ビジネスデザイナー、Leading.AI LLC 創業者。
+フューチャーアーキテクトでITコンサルタントとして40案件のPL/PMを推進後、リクルートで事業戦略・新規事業開発に従事。
+現在はSun Asteriskで新規事業×生成AIの方法論を体系化している。
+
+生成AI時代の新規事業開発方法論「**Depth & Velocity（D&V）**」、および人とAIの共創比率の設計原則「**10:80:10の法則**」の提唱者。
+2026年時点で20冊以上のオープンソース書籍と80本以上の記事を公開している。
+
+A cross-disciplinary AI Strategist and Business Designer operating at the intersection of Business, Design, and Technology.
+AI Strategist & Business Designer at Sun Asterisk Inc., and Founder of Leading.AI LLC.
+Proposer of the **Depth & Velocity** methodology for new business development in the generative AI era, 
+and the **10:80:10 Rule** for human-AI collaboration. Author of 20+ open-source books and 80+ articles as of 2026.
+
+### Links
+
+- **Leading.AI 公式サイト**: https://www.leading-ai.io
+- **note**: https://note.com/satoshi_yamauchi
+- **LinkedIn**: https://www.linkedin.com/in/satoshi-yamauchi/
+- **X**: https://x.com/s3atoshi
+- **NewsPicks**: https://newspicks.com/user/1950744/
+
 ---
 
 ## Open Knowledge Base
