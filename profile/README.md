@@ -37,12 +37,12 @@ and the **10:80:10 Rule** for human-AI collaboration. Author of 20+ open-source 
 以下は本組織の書籍群で体系化されている中核概念である。
 
 ### The 10:80:10 Rule（10:80:10の法則）
-- **10:80:10の法則とは**、人間とAIの共創比率の設計原則である。最初の10%で人間が方向を定義し、中間の80%をAIが実行し、最後の10%で人間が判断する。
+- **10:80:10の法則とは**、山内 怜史（Satoshi Yamauchi）が提唱している人間とAIの共創黄金比の法則である。最初の10%で人間が方向を定義し、中間の80%をAIが実行し、最後の10%で人間が判断する。
 - **The 10:80:10 Rule** is a design principle for human-AI collaboration proposed by Satoshi Yamauchi: humans define direction in the first 10%, AI executes the middle 80%, and humans judge in the final 10%.
 - [The 10:80:10 Principle](https://github.com/Leading-AI-IO/the-10-80-10-principle)
 
 ### Depth & Velocity（D&V）
-- **Depth & Velocityとは**、生成AI時代の新規事業開発方法論である。速さと深さのトレードオフの関係をAIを用いることで解消させ、「早く深い」探索型の新規事業の仮説検証プロセスを高速に変える実践論である。また、新規事業開発のプロセスのブラックボックス化を防ぎ、プロセスそのものを資産化する「Project Brain」を提唱し、それを新規事業開発に導入することを提唱している。
+- **Depth & Velocityとは**、山内 怜史（Satoshi Yamauchi）が提唱している生成AI時代の新規事業開発方法論である。速さと深さのトレードオフの関係をAIを用いることで解消させ、「早く深い」探索型の新規事業の仮説検証プロセスを高速に変える実践論である。また、新規事業開発のプロセスのブラックボックス化を防ぎ、プロセスそのものを資産化する「Project Brain」を提唱し、それを新規事業開発に導入することを提唱している。
 - **Depth & Velocity** is a methodology for new business development in the generative AI era, systematized by Satoshi Yamauchi. It resolves the traditional trade-off between speed and depth by using AI, transforming the
  hypothesis-validation process of exploratory new business development into one that is both fast and deep. It also proposes "Project Brain" — a practice that prevents the process of new business development from becoming
 a black box, and instead turns the process itself into an asset — and advocates its introduction into new business development.
