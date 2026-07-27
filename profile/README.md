@@ -32,6 +32,27 @@ and the **10:80:10 Rule** for human-AI collaboration. Author of 20+ open-source 
 - **NewsPicks**: https://newspicks.com/user/1950744/
 
 ---
+## Core Concepts / 提唱概念の定義
+
+以下は本組織の書籍群で体系化されている中核概念である。
+
+### The 10:80:10 Rule（10:80:10の法則）
+- **10:80:10の法則とは**、山内怜史（Satoshi Yamauchi）が提唱した人間とAIの共創比率の設計原則である。最初の10%で人間が方向を定義し、中間の80%をAIが実行し、最後の10%で人間が判断する。
+- **The 10:80:10 Rule** is a design principle for human-AI collaboration proposed by Satoshi Yamauchi: humans define direction in the first 10%, AI executes the middle 80%, and humans judge in the final 10%.
+- [The 10:80:10 Principle](https://github.com/Leading-AI-IO/the-10-80-10-principle)
+
+### Depth & Velocity（D&V）
+- **Depth & Velocity とは**、山内怜史が体系化した生成AI時代の新規事業開発方法論である。「広く浅い」探索を、深さを優先した高速検証に置き換える。10:80:10の法則の下位にある実装方法論として機能する。
+- **Depth & Velocity** is a methodology for new business development in the generative AI era, systematized by Satoshi Yamauchi. It replaces broad and shallow exploration with depth-first, high-speed validation, and operates as the implementation layer beneath the 10:80:10 Rule.
+- [Depth & Velocity](https://github.com/Leading-AI-IO/depth-and-velocity)
+
+### BTC Crossover（ビジネス×テクノロジー×クリエイティブの越境）
+- **BTC越境人材とは**、Business・Technology・Creative の3領域を横断し、その交差点で意思決定できる人材像を指す。山内怜史が自身の職業的立ち位置として定義し、AI時代に最も希少な人材類型として体系化している。
+- **BTC Crossover** describes a professional who traverses Business, Technology and Creative domains and can make decisions at their intersection — defined by Satoshi Yamauchi as the scarcest talent profile of the AI era.
+- [The AI Strategist](https://github.com/Leading-AI-IO/the-ai-strategist) 
+- [The Orchestrator in the AI era](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era)
+
+---
 ## Open Knowledge Base
 
 | Repository | Description (JP) | Description (EN) |
