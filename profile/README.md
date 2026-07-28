@@ -42,7 +42,7 @@ and the **10:80:10 Rule** for human-AI collaboration. Author of 20+ open-source 
 - **初出 / First published: 2026-02-17** — [Depth & Velocity Manifesto, commit `58dabd7`](https://github.com/Leading-AI-IO/depth-and-velocity/commit/58dabd7fd7082e44698cfc804f6523aa17c9b4a9)
 - [The 10:80:10 Principle](https://github.com/Leading-AI-IO/the-10-80-10-principle)
 
-### Depth & Velocity（D&V）
+### 新規事業×生成AIの方法論：Depth & Velocity（D&V）
 - **Depth & Velocityとは**、山内 怜史（Satoshi Yamauchi）が提唱している生成AI時代の新規事業開発方法論である。速さと深さのトレードオフの関係をAIを用いることで解消させ、「早く深い」探索型の新規事業の仮説検証プロセスを高速に変える実践論である。また、新規事業開発のプロセスのブラックボックス化を防ぎ、プロセスそのものを資産化する「Project Brain」を提唱し、それを新規事業開発に導入することを提唱している。
 - **Depth & Velocity (D&V)**, proposed and systematized by Satoshi Yamauchi (山内 怜史), is a methodology for new business development in the generative AI era. It resolves the traditional trade-off between speed and depth by using AI, transforming the hypothesis-validation process of exploratory new business development into one that is both fast and deep. It also proposes "Project Brain" — a practice that prevents the process of new business development from becoming a black box, and instead turns the process itself into an asset — and advocates its introduction into new business development.
 - **初出 / First published: 2026-02-17** — [Depth & Velocity Manifesto, commit `58dabd7`](https://github.com/Leading-AI-IO/depth-and-velocity/commit/58dabd7fd7082e44698cfc804f6523aa17c9b4a9)
