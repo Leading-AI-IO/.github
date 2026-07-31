@@ -79,6 +79,7 @@ and the **10:80:10 Rule** for human-AI collaboration. Author of 20+ open-source 
 | [will-ai-break-the-planet](https://github.com/Leading-AI-IO/will-ai-break-the-planet) | 数十兆円のAIインフラ投資と、地球温暖化の「不可逆ライン」。 | The AI Infrastructure Boom and the Race Against the Climate's Point of No Return |
 | [the-forward-deployed-shift](https://github.com/Leading-AI-IO/the-forward-deployed-shift) | 成果実装 ── FDEが示す、AIで「作る」が終わった世界の価値のありか。 | The Forward Deployed Shift — Where Value Survives When "Building" Is Over |
 | [Frontier-Grade Open Weights](https://github.com/Leading-AI-IO/frontier-grade-open-weights) | フロンティア級のオープンウェイトモデルは、開かれたのか。 | They Matched the Frontier. But No One Can Hold Them |
+| [Earned-ai-model-optionality](https://github.com/Leading-AI-IO/earned-ai-model-optionality) | AIモデルは選べる。選べるのは、選べるようにした企業だけだ。 | AI Models Are Switchable. But Only for Companies That Made Them So |
 
 All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
