@@ -100,6 +100,7 @@ Articles on these concepts published by third-party media.
 | [Frontier-Grade Open Weights](https://github.com/Leading-AI-IO/frontier-grade-open-weights) | フロンティア級のオープンウェイトモデルは、開かれたのか。 | They Matched the Frontier. But No One Can Hold Them |
 | [Earned-ai-model-optionality](https://github.com/Leading-AI-IO/earned-ai-model-optionality) | AIモデルは選べる。選べるのは、選べるようにした企業だけだ。 | AI Models Are Switchable. But Only for Companies That Made Them So |
 | [Us-china-ai-competition](https://github.com/Leading-AI-IO/us-china-ai-competition) | 米中AI競争の多層構造 ── 決めているのは、強さではなく条件である。 | The Layers of US-China AI Competition — What is being decided is not who is stronger, but who writes the terms |
+| [The China AI Registry](https://github.com/Leading-AI-IO/the-china-ai-registry) | あなたが名前を言える5つの中国AIモデルは、中国が数えているものの1%に満たない。 | The five Chinese AI models you can name are under 1% of the ones China counts |
 
 All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
