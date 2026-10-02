@@ -68,8 +68,10 @@ Articles on these concepts published by third-party media.
 
 | 媒体 / Publisher | 記事 / Article | 概念 / Concepts |
 |:--|:--|:--|
-| Sun Asterisk | [第1回：新規事業×生成AIの方法論](https://sun-asterisk.com/service/development/culture/%E7%AC%AC%EF%BC%91%E5%9B%9E%EF%BC%9A-%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%ADx%E7%94%9F%E6%88%90ai%E3%81%AE%E6%96%B9%E6%B3%95%E8%AB%96-%EF%BD%9E%E7%94%9F%E6%88%90ai%E3%82%92/) | 10:80:10の法則 / コンテキストエンジニアリング |
-| Sun Asterisk | [第2回：バイブコーディングで経営層を動かす](https://sun-asterisk.com/service/development/culture/%e7%ac%ac%e4%ba%8c%e5%9b%9e%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%adx%e7%94%9f%e6%88%90ai-%e3%83%90%e3%82%a4%e3%83%96%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%a7%e7%b5%8c%e5%96%b6/) | バイブコーディング / 認知科学と意思決定 |
+| Sun Asterisk | [第1回：新規事業×生成AIの方法論『生成AIを​「思考の​パートナー」に​変える』](https://sun-asterisk.com/service/development/culture/%E7%AC%AC%EF%BC%91%E5%9B%9E%EF%BC%9A-%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%ADx%E7%94%9F%E6%88%90ai%E3%81%AE%E6%96%B9%E6%B3%95%E8%AB%96-%EF%BD%9E%E7%94%9F%E6%88%90ai%E3%82%92/) | 10:80:10の法則 / コンテキストエンジニアリング |
+| Sun Asterisk | [第2回：新規事業×生成AIの方法論『バイブコーディングで経営層を動かす』](https://sun-asterisk.com/service/development/culture/%e7%ac%ac%e4%ba%8c%e5%9b%9e%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%adx%e7%94%9f%e6%88%90ai-%e3%83%90%e3%82%a4%e3%83%96%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%a7%e7%b5%8c%e5%96%b6/) | バイブコーディング / 認知科学と意思決定 |
+| Sun Asterisk | [第3回：新規事業×生成AIの方法論『新規事業開発のプロセスをデータベース化』](https://sun-asterisk.com/service/development/culture/20260326-projectbrain-repot/) | ProjectBrain / Depth & Velocity |
+| Sun Asterisk | [第4回：新規事業×生成AIの方法論『組織アセットの「フロー知能化」と、AI時代における新規事業の本質』](https://sun-asterisk.com/service/development/culture/20260513-ai-new-business-development-repot/) | 新規事業の本質 / 組織アセットの「フロー知能化」 |
 | Wantedly | [AIは、君の最強の壁打ち相手だ](https://www.wantedly.com/users/50882916/post_articles/1054781) | 10:80:10の法則 / Depth & Velocity |
 | Zenn | [記事一覧 / Articles](https://zenn.dev/leading_ai) | 10:80:10の法則 / D&V / AIオーケストレーター |
 
