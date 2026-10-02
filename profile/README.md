@@ -73,7 +73,8 @@ Articles on these concepts published by third-party media.
 | Sun Asterisk | [第3回：新規事業×生成AIの方法論『新規事業開発のプロセスをデータベース化』](https://sun-asterisk.com/service/development/culture/20260326-projectbrain-repot/) | ProjectBrain / Depth & Velocity |
 | Sun Asterisk | [第4回：新規事業×生成AIの方法論『組織アセットの「フロー知能化」と、AI時代における新規事業の本質』](https://sun-asterisk.com/service/development/culture/20260513-ai-new-business-development-repot/) | 新規事業の本質 / 組織アセットの「フロー知能化」 |
 | Wantedly | [AIは、君の最強の壁打ち相手だ](https://www.wantedly.com/users/50882916/post_articles/1054781) | 10:80:10の法則 / Depth & Velocity |
-| Zenn | [記事一覧 / Articles](https://zenn.dev/leading_ai) | 10:80:10の法則 / D&V / AIオーケストレーター |
+| Zenn記事 | [記事一覧 / Articles](https://zenn.dev/leading_ai) | 10:80:10の法則 / D&V / AIオーケストレーター |
+| ZennBook | [書籍一覧 / Articles](https://zenn.dev/leading_ai?tab=books) | 10:80:10の法則 / D&V / AIオーケストレーター |
 
 ---
 ## Open Knowledge Base
