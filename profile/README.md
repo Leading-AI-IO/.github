@@ -105,6 +105,7 @@ Articles on these concepts published by third-party media.
 | [Us-china-ai-competition](https://github.com/Leading-AI-IO/us-china-ai-competition) | 米中AI競争の多層構造 ── 決めているのは、強さではなく条件である。 | The Layers of US-China AI Competition — What is being decided is not who is stronger, but who writes the terms |
 | [The China AI Registry](https://github.com/Leading-AI-IO/the-china-ai-registry) | あなたが名前を言える5つの中国AIモデルは、中国が数えているものの1%に満たない。 | The five Chinese AI models you can name are under 1% of the ones China counts |
 | [The AI Forecast Registry](https://github.com/Leading-AI-IO/the-ai-forecast-registry) | AI未来予測の名簿 —— AIの未来をめぐる予測を、決着の前に刻む。 | The AI Forecast Registry — Recording What Was Predicted, Before It Resolves |
+| [the Japan Breach Registry 2026](https://github.com/Leading-AI-IO/the-japan-breach-registry-2026) | 2026年秋、日本の企業・組織を襲った個人情報漏えいの波 ── 事実台帳から分かる客観的分析結果 | The Japan Breach Registry 2026 |
 
 All contents are open-sourced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
