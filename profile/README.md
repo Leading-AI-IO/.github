@@ -89,6 +89,10 @@ the **10:80:10 Rule** for human-AI collaboration, and the **AI Orchestrator** as
 ---
 ## Open Knowledge Base
 
+<p>
+  <img src="https://raw.githubusercontent.com/Leading-AI-IO/.github/main/assets/open_knowledge_base.png" alt="Open Knowledge Base" width="50%">
+</p>
+
 | Repository | Description (JP) | Description (EN) |
 |:--|:--|:--|
 | [The AI Strategist](https://github.com/Leading-AI-IO/the-ai-strategist) | AIストラテジストの定義。思想・技術・実行を越境する新しい役割の構造分析。 | Defining the AI Strategist role with practical frameworks for the BTC intersection |
