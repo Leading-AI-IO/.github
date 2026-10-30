@@ -2,7 +2,7 @@
 ## Constructing the Context.
 **文脈を構築し、AIを実装する。**
 
-<img width="600" height="315" alt="prtimes_cover" src="https://github.com/user-attachments/assets/f272ee00-d39d-4845-b0ca-da9532931c34" />
+<img width="80%" alt="prtimes_cover" src="https://github.com/user-attachments/assets/f272ee00-d39d-4845-b0ca-da9532931c34" />
 
 ## Profile
 山内怜史 | AIストラテジスト&ビジネスデザイナー <br>
