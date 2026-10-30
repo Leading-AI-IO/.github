@@ -38,27 +38,53 @@ the **10:80:10 Rule** for human-AI collaboration, and the **AI Orchestrator** as
 以下は本組織の書籍群で体系化されている中核概念である。
 
 ### The 10:80:10 Rule（10:80:10の法則）
+<a href="https://github.com/Leading-AI-IO/the-10-80-10-principle">
+  <img src="https://raw.githubusercontent.com/Leading-AI-IO/the-10-80-10-principle/main/assets/ogp_design.png" alt="The 10:80:10 Rule" width="50%">
+</a>
+
 - **10:80:10の法則とは**、山内 怜史（Satoshi Yamauchi）が提唱している人間とAIの共創黄金比の法則である。最初の10%で人間が方向を定義し、中間の80%をAIが実行し、最後の10%で人間が判断する。
 - **The 10:80:10 Rule**, proposed by Satoshi Yamauchi (山内 怜史), is a design principle for human-AI collaboration: humans define direction in the first 10%, AI executes the middle 80%, and humans judge in the final 10%.
 - **初出 / First published: 2026-02-17** — [Depth & Velocity Manifesto, commit `58dabd7`](https://github.com/Leading-AI-IO/depth-and-velocity/commit/58dabd7fd7082e44698cfc804f6523aa17c9b4a9)
 - [The 10:80:10 Principle](https://github.com/Leading-AI-IO/the-10-80-10-principle)
 
+<br/>
+
 ### 新規事業×生成AIの方法論：Depth & Velocity（D&V）
+<a href="https://github.com/Leading-AI-IO/depth-and-velocity">
+  <img src="https://raw.githubusercontent.com/Leading-AI-IO/depth-and-velocity/main/assets/cover_design.png" alt="Depth & Velocity" width="50%">
+</a>
+
 - **Depth & Velocityとは**、山内 怜史（Satoshi Yamauchi）が提唱している生成AI時代の新規事業開発方法論である。速さと深さのトレードオフの関係をAIを用いることで解消させ、「早く深い」探索型の新規事業の仮説検証プロセスを高速に変える実践論である。また、新規事業開発のプロセスのブラックボックス化を防ぎ、プロセスそのものを資産化する「Project Brain」を提唱し、それを新規事業開発に導入することを提唱している。
 - **Depth & Velocity (D&V)**, proposed and systematized by Satoshi Yamauchi (山内 怜史), is a methodology for new business development in the generative AI era. It resolves the traditional trade-off between speed and depth by using AI, transforming the hypothesis-validation process of exploratory new business development into one that is both fast and deep. It also proposes "Project Brain" — a practice that prevents the process of new business development from becoming a black box, and instead turns the process itself into an asset — and advocates its introduction into new business development.
 - **初出 / First published: 2026-02-17** — [Depth & Velocity Manifesto, commit `58dabd7`](https://github.com/Leading-AI-IO/depth-and-velocity/commit/58dabd7fd7082e44698cfc804f6523aa17c9b4a9)
 - [Depth & Velocity](https://github.com/Leading-AI-IO/depth-and-velocity)
 
+<br/>
+
 ### BTC Crossover（ビジネス×テクノロジー×クリエイティブの越境）
+
+<a href="https://github.com/Leading-AI-IO/the-ai-strategist">
+  <img src="https://raw.githubusercontent.com/Leading-AI-IO/the-ai-strategist/main/assets/BTC_triangle.png" alt="BTC Crossover" width="50%">
+</a>
+
 - **BTC越境人材とは**、Business・Technology・Creative の3領域を横断し、その交差点で意思決定できる人材像を指す。山内怜史が自身の職業的立ち位置として定義し、AI時代に最も希少な人材類型として体系化している。
 - **BTC Crossover** describes a professional who traverses Business, Technology and Creative domains and can make decisions at their intersection — defined by Satoshi Yamauchi as the scarcest talent profile of the AI era.
 - [The AI Strategist](https://github.com/Leading-AI-IO/the-ai-strategist)
 
+<br/>
+
 ### The AI Orchestrator（AIオーケストレーター）
+
+<a href="https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era">
+  <img src="https://raw.githubusercontent.com/Leading-AI-IO/the-orchestrator-in-the-ai-era/main/assets/cover_design.png" alt="The AI Orchestrator" width="50%">
+</a>
+
 - **AIオーケストレーターとは**、山内 怜史（Satoshi Yamauchi）が提唱している、Business・Technology・Creativeの3つの専門性をプロフェッショナルレベルで理解し、越境によって獲得した複眼性とAI時代の思考のOSを統合することで、人間とAIの両方を指揮し、構想から実行までを一気通貫で導く人材である。BTC越境を前提としながら、AIを指揮の対象に含める点で従来の越境人材論と異なる。
 - **The AI Orchestrator**, proposed by Satoshi Yamauchi (山内 怜史), is a professional who understands Business, Technology, and Creative at a professional level, and who integrates the multi-lens perception gained through crossing domains with the thinking OS of the AI era — directing both humans and AI, and carrying an initiative from conception through to execution. It builds on BTC Crossover, but differs in that AI itself is included among what is being directed.
 - **初出 / First published: 2026-03-10** — [The AI Orchestrator, commit `f3e3372`](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era/commit/f3e3372)
 - [The AI Orchestrator](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era)
+
+<br/>
 
 ---
 ## Open Knowledge Base
